@@ -1,5 +1,3 @@
-`arnold.`
-
 `UC Berkeley 4th year cs student.`
 
 `looking for new grad positions in swe, mle, ds.`
